@@ -1,6 +1,6 @@
 # Chat Room Server and Client
 
-This is a simple chat room application that consists of a server (`server.py`) and a client (`client.py`) written in Python. The server allows multiple clients to connect and communicate with each other in different chat rooms.
+This is a simple chat room application that consists of a server (`server.py`) and a client (`client.py`) written in Python using sockets and threading. The server allows multiple clients to connect and communicate with each other in different chat rooms.
 
 ## How to Run the Chat Room Application
 

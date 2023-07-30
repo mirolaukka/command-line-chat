@@ -51,7 +51,7 @@ The client will prompt you to enter a username and the name of the chat room you
 - If the user types "exit," the client will disconnect from the server and close the connection.
 
 
-### Example output
+### Example
 ```
 Welcome to room General!
 [2023-07-30 15:00:00] Alice has joined the chat!
